@@ -1,0 +1,18 @@
+h1{
+    color: white;
+    font-size: 85px;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 45px;
+    text-align: center;
+}
+body{
+    background-image: url(images/HTMLdiv1.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    background-size: cover;
+}
+

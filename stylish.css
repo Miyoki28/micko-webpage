@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+p{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+footer{
+    padding-left: 0cm;
+    size: 25cm;
+}
+body{
+    background-image: url(images/HTMLdiv1.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
